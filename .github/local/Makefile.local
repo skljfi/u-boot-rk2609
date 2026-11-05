@@ -64,3 +64,4 @@ endef
 
 $(eval $(call uboot_targets,radxa-rk3576,rk3576,rock-4d-rk3576_defconfig))
 $(eval $(call uboot_targets,radxa-rk3576-spi,rk3576,rock-4d-spi-rk3576_defconfig))
+$(eval $(call uboot_targets,radxa-nx4-c200,rk3576,radxa-nx4-c200-rk3576_defconfig))
